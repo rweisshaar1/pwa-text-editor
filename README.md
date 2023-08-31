@@ -23,4 +23,4 @@
 https://github.com/rweisshaar1/pwa-text-editor
 
 ## Screen Shot of Working Application:
-<img src="./pwa-homework-helper/screen-shot/screen-shot-jate.png">
+<img src="./screen-shot/screen-shot-jate.png">
