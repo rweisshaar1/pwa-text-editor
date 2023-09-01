@@ -13,7 +13,7 @@
   - If you would like to install the text editor, click the install button.
 
 ## Starter-Code:
-- I was given the code that is in the `uofm-code` folder to work with. I was also given the code in the folder labelled `pwa-hw-helper`. I worked in these files:
+- I was given the code for this project by my teacher Gary Almes. I worked in these files:
   - client/src-sw.js
   - client/webpack.config.js
   - client/src/database.js
